@@ -1184,7 +1184,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060d59db3)
     (property "Reference" "J9" (id 0) (at 134.62 35.1282 0))
-    (property "Value" "Conn_02x07_Counter_Clockwise" (id 1) (at 134.62 33.02 0))
+    (property "Value" "Conn_02x09_Counter_Clockwise" (id 1) (at 134.62 33.02 0))
     (property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43045-1800_2x09_P3.00mm_Horizontal" (id 2) (at 133.35 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1510,7 +1510,7 @@
       (reference "J8") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000060d59db3"
-      (reference "J9") (unit 1) (value "Conn_02x07_Counter_Clockwise") (footprint "Connector_Molex:Molex_Micro-Fit_3.0_43045-1800_2x09_P3.00mm_Horizontal")
+      (reference "J9") (unit 1) (value "Conn_02x09_Counter_Clockwise") (footprint "Connector_Molex:Molex_Micro-Fit_3.0_43045-1800_2x09_P3.00mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-0000612c0080"
       (reference "J10") (unit 1) (value "Conn_01x03_Female") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels")
